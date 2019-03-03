@@ -1,0 +1,13 @@
+This will ask for the capitals of serveral countries.
+What is the capital of France?,Paris
+What is the capital of Egypt?,Cairo
+What is the capital of China?,beijing
+What is the capital of Switzerland?,Bernese German
+What is the capital of Switzerland?,Bernese German
+What is the capital of Korea?,Pyongyang
+This will ask for the calculation problems.
+What is the 1+2?,3
+What is the 2+2?,4
+Some Issues Concerning the United States.
+List at least two states in the United States,Alaska,Arkansas,California
+When is the National Anthem of the United States determined?,1931
